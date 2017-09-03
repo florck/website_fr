@@ -81,3 +81,5 @@ Ce point-là n'est pas toujours bien expliqué et encore moins compris, et c'est
   Les différents indicateurs de l'état de tension de la toile nous permettront de voir venir de loin, et c'est tout l'objectif du développement de g1-monit et de la rédaction de ces rapports : éveiller votre vigilance afin que vous surveilliez vous-même votre toile de confiance, après tout c'est un bien commun :)
 
   Certains sont d'avis que la règle de distance est trop contraignante et qu'il faudra l'assouplir, d'autres que les règles actuelles conviennent parfaitement et que les membres de la Ğ1 sont capables de réguler d'eux-mêmes l'équilibre entre leurs  certifications internes et externes. Les membres de la Ğ1 seront-ils suffisamment vigilants pour réguler la toile d'eux-mêmes ? J'espère que la réponse est oui, le suivi des statistiques détaillés de la toile nous le dira :)
+
+pouet
